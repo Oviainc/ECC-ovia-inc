@@ -1,3 +1,7 @@
+> **Ovia Inc fork** — We maintain this fork of [affaan-m/ECC](https://github.com/affaan-m/ECC), an agent harness performance optimisation system: skills, instincts, memory, security, and research-first development for coding agents. **Story:** a harness decides what an agent can do all day without drifting — performance, memory, and security in one system is exactly the layer our fleet work depends on, and the layer our writing on guardrails keeps returning to. Upstream credit: affaan-m. License: MIT (see LICENSE). The upstream project is documented below.
+
+---
+
 <p align="center">
   <img src="assets/hero.png" alt="ECC - the agent harness operating system" width="100%" />
 </p>
